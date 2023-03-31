@@ -692,3 +692,708 @@ https://zee.yashrajmod.online/@yashrajmod.08/api.php?c=0-9-zeeyuva
 https://zee.yashrajmod.online/@yashrajmod.08/api.php?c=0-9-348
 #EXTINF: -1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo895666865.png" group-title="{BH}ZEE 5", Zing
 https://zee.yashrajmod.online/@yashrajmod.08/api.php?c=0-9-zing
+#EXTM3U 
+#EXTINF: -1 tvg-id="0-9-channel_2105335046" tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606506.png" group-title="{BH}Airtel TV", &flix HD-Rs 19
+http://59.103.245.153:8000/play/a04w/index.m3u8
+#EXTINF: -1 tvg-id="ts148" tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606507.png" group-title="{BH}Airtel TV", &pictures HD -Rs 19
+http://59.103.245.153:8000/play/a05d/index.m3u8
+#EXTINF: -1 tvg-id="0-9-privehd" tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606508.png" group-title="{BH}Airtel TV", &prive HD-Rs 6
+http://59.103.245.153:8000/play/a05j/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606509.png" group-title="{BH}Airtel TV", 24 News HD
+http://59.103.245.153:8000/play/a00x/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606510.png" group-title="{BH}Airtel TV", ARYDigitalAsia HD
+http://59.103.245.153:8000/play/a014/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606511.png" group-title="{BH}Airtel TV", ARYMusik
+http://59.103.245.153:8000/play/a016/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606512.png" group-title="{BH}Airtel TV", ARYNewsAsia
+http://59.103.245.153:8000/play/a017/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606513.png" group-title="{BH}Airtel TV", ARYQTV
+http://59.103.245.153:8000/play/a015/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606514.png" group-title="{BH}Airtel TV", ARYZindagi
+http://59.103.245.153:8000/play/a013/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606515.png" group-title="{BH}Airtel TV", Animal PlanetHD-Rs5
+http://59.103.245.153:8000/play/a057/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606516.png" group-title="{BH}Airtel TV", Avt khyber HD
+http://59.103.245.153:8000/play/a00i/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606517.png" group-title="{BH}Airtel TV", CITY-21
+http://59.103.245.153:8000/play/a012/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606518.png" group-title="{BH}Airtel TV", CITY-41
+http://59.103.245.153:8000/play/a00z/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606519.png" group-title="{BH}Airtel TV", CITY-42 HD
+http://59.103.245.153:8000/play/a00y/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606520.png" group-title="{BH}Airtel TV", Cartoon NW-Rs4.25
+http://59.103.245.153:8000/play/a06k/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606521.png" group-title="{BH}Airtel TV", Colors HD-Rs 19
+http://59.103.245.153:8000/play/a04v/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606522.png" group-title="{BH}Airtel TV", Digital 1
+http://59.103.245.153:8000/play/a00w/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606523.png" group-title="{BH}Airtel TV", Digital 1
+http://59.103.245.153:8000/play/a00v/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606524.png" group-title="{BH}Airtel TV", Digital 1
+http://59.103.245.153:8000/play/a00u/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606525.png" group-title="{BH}Airtel TV", Discovery HD-Rs8
+http://59.103.245.153:8000/play/a06i/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606526.png" group-title="{BH}Airtel TV", Discovery Kids-Rs3.50
+http://59.103.245.153:8000/play/a06s/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606527.png" group-title="{BH}Airtel TV", DiscoveryScienc-Rs1
+http://59.103.245.153:8000/play/a05l/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606528.png" group-title="{BH}Airtel TV", DiscoveryTurbo-Rs1
+http://59.103.245.153:8000/play/a05m/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606529.png" group-title="{BH}Airtel TV", Disney Jr.-Rs 4
+http://59.103.245.153:8000/play/a06o/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606530.png" group-title="{BH}Airtel TV", Disney-Rs 10
+http://59.103.245.153:8000/play/a06m/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606531.png" group-title="{BH}Airtel TV", EUROSPORT HD-Rs 5.50
+http://59.103.245.153:8000/play/a04y/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606532.png" group-title="{BH}Airtel TV", FOX Life HD-Rs 2
+http://59.103.245.153:8000/play/a05s/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606533.png" group-title="{BH}Airtel TV", Geo Entertainment
+http://59.103.245.153:8000/play/a00q/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606534.png" group-title="{BH}Airtel TV", Geo Kahani
+http://59.103.245.153:8000/play/a00r/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606535.png" group-title="{BH}Airtel TV", Geo News
+http://59.103.245.153:8000/play/a00p/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606536.png" group-title="{BH}Airtel TV", Geo Super
+http://59.103.245.153:8000/play/a00s/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606537.png" group-title="{BH}Airtel TV", Geo Tez
+http://59.103.245.153:8000/play/a00t/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606538.png" group-title="{BH}Airtel TV", HISTORY TV18 HD-Rs7
+http://59.103.245.153:8000/play/a059/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606539.png" group-title="{BH}Airtel TV", HUM NEWS HD
+http://59.103.245.153:8000/play/a00l/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606540.png" group-title="{BH}Airtel TV", HUM PASHTO-1
+http://59.103.245.153:8000/play/a00o/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606541.png" group-title="{BH}Airtel TV", HUM SITARAY
+http://59.103.245.153:8000/play/a00n/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606542.png" group-title="{BH}Airtel TV", Investigation D-Rs1
+http://59.103.245.153:8000/play/a066/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606543.png" group-title="{BH}Airtel TV", Kay-2 HD
+http://59.103.245.153:8000/play/a00k/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606544.png" group-title="{BH}Airtel TV", Khyber News HD
+http://59.103.245.153:8000/play/a00j/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606545.png" group-title="{BH}Airtel TV", MASALA TV
+http://59.103.245.153:8000/play/a00m/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606546.png" group-title="{BH}Airtel TV", MN+ HD-Rs 8
+http://59.103.245.153:8000/play/a06e/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606547.png" group-title="{BH}Airtel TV", Nat Geo HD-Rs14
+http://59.103.245.153:8000/play/a06h/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606548.png" group-title="{BH}Airtel TV", NatGeo Wild HD-Rs8
+http://59.103.245.153:8000/play/a065/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606549.png" group-title="{BH}Airtel TV", PTV-Home
+http://59.103.245.153:8000/play/a009/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606550.png" group-title="{BH}Airtel TV", PTV-NEWS HD
+http://59.103.245.153:8000/play/a00a/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606551.png" group-title="{BH}Airtel TV", PTV-SPORTS-HD
+http://59.103.245.153:8000/play/a00c/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606552.png" group-title="{BH}Airtel TV", PTV-Sports SD
+http://59.103.245.153:8000/play/a00e/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606553.png" group-title="{BH}Airtel TV", PTV-Teleschool
+http://59.103.245.153:8000/play/a00b/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606554.png" group-title="{BH}Airtel TV", PTV-World
+http://59.103.245.153:8000/play/a00d/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606555.png" group-title="{BH}Airtel TV", Pogo - Rs 4.25
+http://59.103.245.153:8000/play/a06q/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606556.png" group-title="{BH}Airtel TV", ROHI TV
+http://59.103.245.153:8000/play/a010/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606557.png" group-title="{BH}Airtel TV", Radio_Apna & Nori
+http://59.103.245.153:8000/play/a00h/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606558.png" group-title="{BH}Airtel TV", Radio_Pakistan-1
+http://59.103.245.153:8000/play/a00f/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606559.png" group-title="{BH}Airtel TV", Radio_Sawat & Waziristan
+http://59.103.245.153:8000/play/a00g/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606560.png" group-title="{BH}Airtel TV", SET HD - Rs 19
+http://59.103.245.153:8000/play/a04x/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606561.png" group-title="{BH}Airtel TV", SONIC- Rs 2
+http://59.103.245.153:8000/play/a06p/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606562.png" group-title="{BH}Airtel TV", SONY MAX 2 - Rs 1
+http://59.103.245.153:8000/play/a05r/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606563.png" group-title="{BH}Airtel TV", SONY MAX HD -Rs 19
+http://59.103.245.153:8000/play/a064/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606564.png" group-title="{BH}Airtel TV", SONY PAL - 50p
+http://59.103.245.153:8000/play/a052/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606565.png" group-title="{BH}Airtel TV", SONY PIX HD - Rs 19
+http://59.103.245.153:8000/play/a05c/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606566.png" group-title="{BH}Airtel TV", STAR BHARAT HD-Rs 19
+http://59.103.245.153:8000/play/a056/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606567.png" group-title="{BH}Airtel TV", STAR MOVIES HD-Rs19
+http://59.103.245.153:8000/play/a06f/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606568.png" group-title="{BH}Airtel TV", STAR WORLD HD -Rs 9
+http://59.103.245.153:8000/play/a05y/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606569.png" group-title="{BH}Airtel TV", Sony Ten 1 HD-Rs19
+http://59.103.245.153:8000/play/a061/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606570.png" group-title="{BH}Airtel TV", Sony Ten 2 HD-Rs19
+http://59.103.245.153:8000/play/a05g/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606571.png" group-title="{BH}Airtel TV", Sony Ten 3 HD-Rs19
+http://59.103.245.153:8000/play/a067/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606572.png" group-title="{BH}Airtel TV", Sony Ten 5 HD-Rs19
+http://59.103.245.153:8000/play/a062/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606573.png" group-title="{BH}Airtel TV", SonyBBCearthHD-Rs19
+http://59.103.245.153:8000/play/a05b/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606574.png" group-title="{BH}Airtel TV", Sports18 1 HD-Rs10
+http://59.103.245.153:8000/play/a06b/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606575.png" group-title="{BH}Airtel TV", Star GOLD HD -Rs 19
+http://59.103.245.153:8000/play/a058/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606576.png" group-title="{BH}Airtel TV", Star Gold 2- Rs 2
+http://59.103.245.153:8000/play/a05p/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606577.png" group-title="{BH}Airtel TV", Star Plus HD -Rs 19
+http://59.103.245.153:8000/play/a04t/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606578.png" group-title="{BH}Airtel TV", Star Sports 3- Rs 2
+http://59.103.245.153:8000/play/a068/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606579.png" group-title="{BH}Airtel TV", Star Utsav-50p
+http://59.103.245.153:8000/play/a051/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606580.png" group-title="{BH}Airtel TV", StarGold SelHD-Rs8
+http://59.103.245.153:8000/play/a05a/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606581.png" group-title="{BH}Airtel TV", StarMovieSelHD-Rs19
+http://59.103.245.153:8000/play/a06g/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606582.png" group-title="{BH}Airtel TV", StarS1 HindiHD-Rs19
+http://59.103.245.153:8000/play/a063/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606583.png" group-title="{BH}Airtel TV", StarSportSL1HD-Rs19
+http://59.103.245.153:8000/play/a05e/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606584.png" group-title="{BH}Airtel TV", StarSportSL2HD-Rs10
+http://59.103.245.153:8000/play/a05f/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606585.png" group-title="{BH}Airtel TV", StarSports1 HD-Rs19
+http://59.103.245.153:8000/play/a05z/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606586.png" group-title="{BH}Airtel TV", StarSports2 HD-Rs19
+http://59.103.245.153:8000/play/a060/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606587.png" group-title="{BH}Airtel TV", StarWorld PrmHD-Rs9
+http://59.103.245.153:8000/play/a05x/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606588.png" group-title="{BH}Airtel TV", TLC HD- Rs3
+http://59.103.245.153:8000/play/a06c/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606589.png" group-title="{BH}Airtel TV", UK-44
+http://59.103.245.153:8000/play/a011/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606590.png" group-title="{BH}Airtel TV", UTV ACTION-Rs 2
+http://59.103.245.153:8000/play/a05o/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606591.png" group-title="{BH}Airtel TV", UTV MOVIES-Rs 2
+http://59.103.245.153:8000/play/a05n/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606592.png" group-title="{BH}Airtel TV", ZEE ANMOL-10p
+http://59.103.245.153:8000/play/a053/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606593.png" group-title="{BH}Airtel TV", ZEE BOLLYWOOD-Rs3
+http://59.103.245.153:8000/play/a05q/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606594.png" group-title="{BH}Airtel TV", ZEE CINEMA HD-Rs 19
+http://59.103.245.153:8000/play/a055/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606595.png" group-title="{BH}Airtel TV", ZEE Cafe HD - Rs10
+http://59.103.245.153:8000/play/a06d/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606596.png" group-title="{BH}Airtel TV", ZEE TV HD-Rs 19
+http://59.103.245.153:8000/play/a04u/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606597.png" group-title="{BH}Airtel TV", bindass - 10p
+http://59.103.245.153:8000/play/a050/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606598.png" group-title="{BH}Airtel TV", colors rishtey-Rs1
+http://59.103.245.153:8000/play/a04z/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606599.png" group-title="{BH}Airtel TV", colorsInfintyHD-Rs9
+http://59.103.245.153:8000/play/a05h/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606600.png" group-title="{BH}Airtel TV", hungama tv-Rs 1
+http://59.103.245.153:8000/play/a06l/index.m3u8
+#EXTINF: -1 tvg-id="1244" tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606601.png" group-title="{BH}Airtel TV", nick - Rs 6
+http://59.103.245.153:8000/play/a06n/index.m3u8
+#EXTINF: -1 tvg-id="ts138" tvg-logo="https://m3u-editor.com/storage/channel-logos/b26b84a0-cf9c-11ed-8104-9565b0a6c112/4543050/809606602.png" group-title="{BH}Airtel TV", nick HD+- Rs 10
+http://59.103.245.153:8000/play/a05i/index.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="{BH}Jio+Sports", Jio Cricket English HD
+http://127.0.0.1:3500/getm3u8/1918/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="{BH}Jio+Sports", Sony Ten 5 HD
+http://127.0.0.1:3500/getm3u8/155/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="{BH}Jio+Sports", Sony Ten 1 HD
+http://127.0.0.1:3500/getm3u8/162/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="{BH}Jio+Sports", Sony Ten 2 HD
+http://127.0.0.1:3500/getm3u8/891/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="{BH}Jio+Sports", Sony Ten 3 HD
+http://127.0.0.1:3500/getm3u8/892/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="{BH}Jio+Sports", Jio Sports HD
+http://127.0.0.1:3500/getm3u8/889/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="{BH}Jio+Sports", Eurosport HD
+http://127.0.0.1:3500/getm3u8/875/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="{BH}Jio+Sports", Jio Football HD
+http://127.0.0.1:3500/getm3u8/1156/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="{BH}Jio+Sports", Jio Cricket 1 HD
+http://127.0.0.1:3500/getm3u8/1160/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="{BH}Jio+Sports", Jio Football 1 HD
+http://127.0.0.1:3500/getm3u8/1165/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="{BH}Jio+Sports", Jio Football 2 HD
+http://127.0.0.1:3500/getm3u8/1167/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="{BH}Jio+Sports", Jio Football 3 HD
+http://127.0.0.1:3500/getm3u8/1168/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="{BH}Jio+Sports", Jio Football 4 HD
+http://127.0.0.1:3500/getm3u8/1169/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="{BH}Jio+Sports", Sony Ten 1
+http://127.0.0.1:3500/getm3u8/514/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="{BH}Jio+Sports", Ten 2
+http://127.0.0.1:3500/getm3u8/523/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="{BH}Jio+Sports", Sony Ten 3
+http://127.0.0.1:3500/getm3u8/524/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="{BH}Jio+Sports", Sony Ten 5
+http://127.0.0.1:3500/getm3u8/525/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="{BH}Jio+Sports", Jio Cricket 4 HD
+http://127.0.0.1:3500/getm3u8/1272/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="{BH}Jio+Sports", DD Sports
+http://127.0.0.1:3500/getm3u8/204/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="{BH}Jio+Sports", Jio Cricket 2 HD
+http://127.0.0.1:3500/getm3u8/1161/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png" group-title="{BH}Jio+Sports", JioGames HD
+http://127.0.0.1:3500/getm3u8/1163/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="{BH}Jio+Sports", Jio Cricket 3 HD
+http://127.0.0.1:3500/getm3u8/1166/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="{BH}Jio+Sports", MI TV
+http://127.0.0.1:3500/getm3u8/1529/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png" group-title="{BH}Jio+Sports", ESG TV
+http://127.0.0.1:3500/getm3u8/1675/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="{BH}Jio+Sports", Sony Ten 4 HD Tamil
+http://127.0.0.1:3500/getm3u8/1772/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="{BH}Jio+Sports", Sony Ten 4 HD Telugu
+http://127.0.0.1:3500/getm3u8/1773/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="{BH}Jio+Sports", Sony Ten 4 Tamil
+http://127.0.0.1:3500/getm3u8/1774/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="{BH}Jio+Sports", Jio Football 5 HD
+http://127.0.0.1:3500/getm3u8/1813/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="{BH}Jio+Sports", Jio Football 6 HD
+http://127.0.0.1:3500/getm3u8/1814/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="{BH}Jio+Sports", Jio Football 7 HD
+http://127.0.0.1:3500/getm3u8/1823/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png" group-title="{BH}Jio+Sports", Jio Football 8 HD
+http://127.0.0.1:3500/getm3u8/1824/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST5_HD.png" group-title="{BH}Jio+Sports", TEST5 HD
+http://127.0.0.1:3500/getm3u8/1061/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="{BH}Jio+Sports", Jio Football Hindi HD
+http://127.0.0.1:3500/getm3u8/1234/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="{BH}Jio+Sports", Jio Football Malayalam HD
+http://127.0.0.1:3500/getm3u8/1236/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Bangali_HD.png" group-title="{BH}Jio+Sports", Jio Football Bengali HD
+http://127.0.0.1:3500/getm3u8/1239/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="{BH}Jio+Sports", Eurosport
+http://127.0.0.1:3500/getm3u8/1294/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="{BH}Jio+Sports", 1Sports
+http://127.0.0.1:3500/getm3u8/1425/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="{BH}Jio+Sports", Sony Ten 4 Telugu
+http://127.0.0.1:3500/getm3u8/1775/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST15_HD.png" group-title="{BH}Jio+Sports", TEST15 HD
+http://127.0.0.1:3500/getm3u8/1882/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="{BH}Jio+Sports", Jio Sports 1 HD
+http://127.0.0.1:3500/getm3u8/1889/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png" group-title="{BH}Jio+Sports", Jio Sports 2 HD
+http://127.0.0.1:3500/getm3u8/1890/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_3_HD.png" group-title="{BH}Jio+Sports", Jio Sports 3 HD
+http://127.0.0.1:3500/getm3u8/1970/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png" group-title="{BH}Jio+Sports", Jio Sports 4 HD
+http://127.0.0.1:3500/getm3u8/1971/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="{BH}Jio+Sports", Sports18 1 HD
+http://127.0.0.1:3500/getm3u8/1984/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="{BH}Jio+Sports", Sports18 1
+http://127.0.0.1:3500/getm3u8/1985/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="{BH}Jio+Sports", Sports18 Khel
+http://127.0.0.1:3500/getm3u8/1998/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png" group-title="{BH}Jio+Sports", Q GameX
+http://127.0.0.1:3500/getm3u8/2183/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="{BH}Jio+Entertainment", Colors HD
+http://127.0.0.1:3500/getm3u8/144/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="{BH}Jio+Entertainment", SET HD
+http://127.0.0.1:3500/getm3u8/291/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="{BH}Jio+Entertainment", Zee TV HD
+http://127.0.0.1:3500/getm3u8/167/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="{BH}Jio+Entertainment", Sony SAB
+http://127.0.0.1:3500/getm3u8/154/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="{BH}Jio+Entertainment", And TV HD
+http://127.0.0.1:3500/getm3u8/472/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="{BH}Jio+Entertainment", Rishtey
+http://127.0.0.1:3500/getm3u8/279/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="{BH}Jio+Entertainment", Zee Anmol
+http://127.0.0.1:3500/getm3u8/473/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="{BH}Jio+Entertainment", Sony Pal
+http://127.0.0.1:3500/getm3u8/474/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="{BH}Jio+Entertainment", Sony SAB HD
+http://127.0.0.1:3500/getm3u8/471/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="{BH}Jio+Entertainment", Zee Marathi
+http://127.0.0.1:3500/getm3u8/445/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="{BH}Jio+Entertainment", Colors Marathi HD
+http://127.0.0.1:3500/getm3u8/755/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="{BH}Jio+Entertainment", Colors Kannada HD
+http://127.0.0.1:3500/getm3u8/757/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="{BH}Jio+Entertainment", Zee Kannada
+http://127.0.0.1:3500/getm3u8/689/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="{BH}Jio+Entertainment", Comedy Central HD
+http://127.0.0.1:3500/getm3u8/1157/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="{BH}Jio+Entertainment", Zee Telugu
+http://127.0.0.1:3500/getm3u8/638/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="{BH}Jio+Entertainment", Zee Tamil
+http://127.0.0.1:3500/getm3u8/628/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="{BH}Jio+Entertainment", Colors Gujarati
+http://127.0.0.1:3500/getm3u8/196/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="{BH}Jio+Entertainment", Zee Bangla
+http://127.0.0.1:3500/getm3u8/625/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="{BH}Jio+Entertainment", Colors Bengali HD
+http://127.0.0.1:3500/getm3u8/756/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="{BH}Jio+Entertainment", Epic
+http://127.0.0.1:3500/getm3u8/481/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="{BH}Jio+Entertainment", Colors Infinity HD
+http://127.0.0.1:3500/getm3u8/1158/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="{BH}Jio+Entertainment", Zee Yuva
+http://127.0.0.1:3500/getm3u8/414/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="{BH}Jio+Entertainment", PTC Punjabi
+http://127.0.0.1:3500/getm3u8/1171/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="{BH}Jio+Entertainment", Investigation Discovery
+http://127.0.0.1:3500/getm3u8/527/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="{BH}Jio+Entertainment", DD India
+http://127.0.0.1:3500/getm3u8/528/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="{BH}Jio+Entertainment", DD National
+http://127.0.0.1:3500/getm3u8/202/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="{BH}Jio+Entertainment", Dabangg
+http://127.0.0.1:3500/getm3u8/532/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="{BH}Jio+Entertainment", Colors Tamil HD
+http://127.0.0.1:3500/getm3u8/429/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="{BH}Jio+Entertainment", Sun TV HD
+http://127.0.0.1:3500/getm3u8/896/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="{BH}Jio+Entertainment", DD Madhya Pradesh
+http://127.0.0.1:3500/getm3u8/536/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="{BH}Jio+Entertainment", DD Rajasthan (Jaipur)
+http://127.0.0.1:3500/getm3u8/538/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="{BH}Jio+Entertainment", Enterr 10
+http://127.0.0.1:3500/getm3u8/485/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="{BH}Jio+Entertainment", ETV Telugu
+http://127.0.0.1:3500/getm3u8/629/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="{BH}Jio+Entertainment", Raj Pariwar
+http://127.0.0.1:3500/getm3u8/533/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="{BH}Jio+Entertainment", DD Bihar
+http://127.0.0.1:3500/getm3u8/539/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="{BH}Jio+Entertainment", DD Uttar Pradesh
+http://127.0.0.1:3500/getm3u8/540/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="{BH}Jio+Entertainment", Jaya TV HD
+http://127.0.0.1:3500/getm3u8/419/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="{BH}Jio+Entertainment", Mazavali Manorama HD
+http://127.0.0.1:3500/getm3u8/844/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="{BH}Jio+Entertainment", MK TV
+http://127.0.0.1:3500/getm3u8/847/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="{BH}Jio+Entertainment", Colors Super
+http://127.0.0.1:3500/getm3u8/785/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="{BH}Jio+Entertainment", Vendhar TV
+http://127.0.0.1:3500/getm3u8/857/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" group-title="{BH}Jio+Entertainment", Gemini TV HD
+http://127.0.0.1:3500/getm3u8/897/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="{BH}Jio+Entertainment", Surya HD
+http://127.0.0.1:3500/getm3u8/900/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png" group-title="{BH}Jio+Entertainment", Udaya HD
+http://127.0.0.1:3500/getm3u8/901/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" group-title="{BH}Jio+Entertainment", Sanjha TV
+http://127.0.0.1:3500/getm3u8/904/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Today.png" group-title="{BH}Jio+Entertainment", Live Punjabi TV
+http://127.0.0.1:3500/getm3u8/951/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png" group-title="{BH}Jio+Entertainment", JUSPunjabi
+http://127.0.0.1:3500/getm3u8/959/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="{BH}Jio+Entertainment", Arre HD
+http://127.0.0.1:3500/getm3u8/963/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="{BH}Jio+Entertainment", Peppers TV
+http://127.0.0.1:3500/getm3u8/796/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="{BH}Jio+Entertainment", Zee Sarthak
+http://127.0.0.1:3500/getm3u8/722/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="{BH}Jio+Entertainment", Flower TV
+http://127.0.0.1:3500/getm3u8/634/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="{BH}Jio+Entertainment", Mazhavil Manorama
+http://127.0.0.1:3500/getm3u8/648/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="{BH}Jio+Entertainment", DD Bangla
+http://127.0.0.1:3500/getm3u8/690/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="{BH}Jio+Entertainment", Puthu Yugam
+http://127.0.0.1:3500/getm3u8/824/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="{BH}Jio+Entertainment", Saam Tv
+http://127.0.0.1:3500/getm3u8/691/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="{BH}Jio+Entertainment", Colors Oriya
+http://127.0.0.1:3500/getm3u8/198/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="{BH}Jio+Entertainment", Jonack
+http://127.0.0.1:3500/getm3u8/765/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="{BH}Jio+Entertainment", Rang
+http://127.0.0.1:3500/getm3u8/623/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="{BH}Jio+Entertainment", Rengoni
+http://127.0.0.1:3500/getm3u8/635/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="{BH}Jio+Entertainment", ETV Plus
+http://127.0.0.1:3500/getm3u8/692/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="{BH}Jio+Entertainment", Sony Marathi SD
+http://127.0.0.1:3500/getm3u8/1146/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="{BH}Jio+Entertainment", DD Sahayadri
+http://127.0.0.1:3500/getm3u8/695/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="{BH}Jio+Entertainment", Sony aath
+http://127.0.0.1:3500/getm3u8/697/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="{BH}Jio+Entertainment", Aakash Aath
+http://127.0.0.1:3500/getm3u8/698/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="{BH}Jio+Entertainment", DD Malayalam
+http://127.0.0.1:3500/getm3u8/699/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="{BH}Jio+Entertainment", Dangal
+http://127.0.0.1:3500/getm3u8/701/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="{BH}Jio+Entertainment", DD Oriya
+http://127.0.0.1:3500/getm3u8/702/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="{BH}Jio+Entertainment", Polimer TV
+http://127.0.0.1:3500/getm3u8/705/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png" group-title="{BH}Jio+Entertainment", Gemini Comedy
+http://127.0.0.1:3500/getm3u8/729/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="{BH}Jio+Entertainment", Raj TV
+http://127.0.0.1:3500/getm3u8/707/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="{BH}Jio+Entertainment", Makkal TV
+http://127.0.0.1:3500/getm3u8/708/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="{BH}Jio+Entertainment", Adithya TV
+http://127.0.0.1:3500/getm3u8/709/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="{BH}Jio+Entertainment", Kairali TV
+http://127.0.0.1:3500/getm3u8/710/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="{BH}Jio+Entertainment", Captain tv
+http://127.0.0.1:3500/getm3u8/711/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="{BH}Jio+Entertainment", DD urdu
+http://127.0.0.1:3500/getm3u8/712/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="{BH}Jio+Entertainment", DD Saptagiri
+http://127.0.0.1:3500/getm3u8/706/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="{BH}Jio+Entertainment", DD9 chandana (kannada)
+http://127.0.0.1:3500/getm3u8/713/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="{BH}Jio+Entertainment", DD Girnar
+http://127.0.0.1:3500/getm3u8/714/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="{BH}Jio+Entertainment", DD Punjabi
+http://127.0.0.1:3500/getm3u8/715/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png" group-title="{BH}Jio+Entertainment", DD Kashir
+http://127.0.0.1:3500/getm3u8/716/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="{BH}Jio+Entertainment", Nepal one
+http://127.0.0.1:3500/getm3u8/719/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png" group-title="{BH}Jio+Entertainment", DD13 Guwahati NE
+http://127.0.0.1:3500/getm3u8/720/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="{BH}Jio+Entertainment", Amrita TV
+http://127.0.0.1:3500/getm3u8/723/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="{BH}Jio+Entertainment", DD5 Podhigai
+http://127.0.0.1:3500/getm3u8/726/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="{BH}Jio+Entertainment", Vasanth TV
+http://127.0.0.1:3500/getm3u8/727/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="{BH}Jio+Entertainment", Zee Salaam
+http://127.0.0.1:3500/getm3u8/728/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="{BH}Jio+Entertainment", Kasturi
+http://127.0.0.1:3500/getm3u8/730/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="{BH}Jio+Entertainment", Kairali WE TV
+http://127.0.0.1:3500/getm3u8/731/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png" group-title="{BH}Jio+Entertainment", Udaya Comedy
+http://127.0.0.1:3500/getm3u8/733/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="{BH}Jio+Entertainment", Vissa TV
+http://127.0.0.1:3500/getm3u8/734/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="{BH}Jio+Entertainment", Maiboli
+http://127.0.0.1:3500/getm3u8/736/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png" group-title="{BH}Jio+Entertainment", The Q
+http://127.0.0.1:3500/getm3u8/1066/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Namma_TV.png" group-title="{BH}Jio+Entertainment", Namma TV
+http://127.0.0.1:3500/getm3u8/1144/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="{BH}Jio+Entertainment", Rangamanch
+http://127.0.0.1:3500/getm3u8/1151/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="{BH}Jio+Entertainment", Dillagi TV
+http://127.0.0.1:3500/getm3u8/534/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="{BH}Jio+Entertainment", Dhamaal TV
+http://127.0.0.1:3500/getm3u8/535/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="{BH}Jio+Entertainment", Jio Exclusive HD
+http://127.0.0.1:3500/getm3u8/866/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="{BH}Jio+Entertainment", Hi Dost!
+http://127.0.0.1:3500/getm3u8/1232/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST1_HD.png" group-title="{BH}Jio+Entertainment", TEST1 HD
+http://127.0.0.1:3500/getm3u8/978/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST2_HD.png" group-title="{BH}Jio+Entertainment", TEST2 HD
+http://127.0.0.1:3500/getm3u8/979/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png" group-title="{BH}Jio+Entertainment", Lionsgate Play
+http://127.0.0.1:3500/getm3u8/2327/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="{BH}Jio+Entertainment", Colors Marathi SD
+http://127.0.0.1:3500/getm3u8/1326/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="{BH}Jio+Entertainment", Colors SD
+http://127.0.0.1:3500/getm3u8/1368/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="{BH}Jio+Entertainment", Colors Bangla SD
+http://127.0.0.1:3500/getm3u8/1369/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="{BH}Jio+Entertainment", Colors Kannada SD
+http://127.0.0.1:3500/getm3u8/1370/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="{BH}Jio+Entertainment", Moon TV
+http://127.0.0.1:3500/getm3u8/1518/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab1_TV.png" group-title="{BH}Jio+Entertainment", Luv Punjab TV
+http://127.0.0.1:3500/getm3u8/1730/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V24_TV.png" group-title="{BH}Jio+Entertainment", JKAC News
+http://127.0.0.1:3500/getm3u8/1739/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Vision.png" group-title="{BH}Jio+Entertainment", Channel Vision
+http://127.0.0.1:3500/getm3u8/1762/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pasand.png" group-title="{BH}Jio+Entertainment", Pasand
+http://127.0.0.1:3500/getm3u8/1798/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="{BH}Jio+Entertainment", Studio Yuva Alpha
+http://127.0.0.1:3500/getm3u8/1799/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" group-title="{BH}Jio+Entertainment", Green Chillies
+http://127.0.0.1:3500/getm3u8/1834/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="{BH}Jio+Entertainment", Kalaignar TV
+http://127.0.0.1:3500/getm3u8/1209/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="{BH}Jio+Entertainment", Manoranjan Grand
+http://127.0.0.1:3500/getm3u8/1279/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="{BH}Jio+Entertainment", Manjari TV
+http://127.0.0.1:3500/getm3u8/1299/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="{BH}Jio+Entertainment", Colors Infinity SD
+http://127.0.0.1:3500/getm3u8/1325/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="{BH}Jio+Entertainment", Comedy Central SD
+http://127.0.0.1:3500/getm3u8/1327/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="{BH}Jio+Entertainment", Zee TV
+http://127.0.0.1:3500/getm3u8/1351/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="{BH}Jio+Entertainment", Zee Marathi HD
+http://127.0.0.1:3500/getm3u8/1360/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="{BH}Jio+Entertainment", Colors Tamil
+http://127.0.0.1:3500/getm3u8/1371/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="{BH}Jio+Entertainment", Sony Wah
+http://127.0.0.1:3500/getm3u8/1393/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="{BH}Jio+Entertainment", Set SD
+http://127.0.0.1:3500/getm3u8/1396/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST12_HD.png" group-title="{BH}Jio+Entertainment", TEST12 HD
+http://127.0.0.1:3500/getm3u8/1476/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="{BH}Jio+Entertainment", Kannur One
+http://127.0.0.1:3500/getm3u8/1514/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png" group-title="{BH}Jio+Entertainment", HITS HD
+http://127.0.0.1:3500/getm3u8/1603/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sirikannada.png" group-title="{BH}Jio+Entertainment", Siri Kannada
+http://127.0.0.1:3500/getm3u8/1634/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="{BH}Jio+Entertainment", Surya Comedy
+http://127.0.0.1:3500/getm3u8/1662/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="{BH}Jio+Entertainment", Sun Bangla
+http://127.0.0.1:3500/getm3u8/1669/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png" group-title="{BH}Jio+Entertainment", Punjab Plus
+http://127.0.0.1:3500/getm3u8/1868/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" group-title="{BH}Jio+Entertainment", E!
+http://127.0.0.1:3500/getm3u8/1881/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MH1_DilSe.png" group-title="{BH}Jio+Entertainment", MH1 Dil Se
+http://127.0.0.1:3500/getm3u8/1925/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_TV.png" group-title="{BH}Jio+Entertainment", Sidharth TV
+http://127.0.0.1:3500/getm3u8/1956/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png" group-title="{BH}Jio+Entertainment", Shemaroo TV
+http://127.0.0.1:3500/getm3u8/1961/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="{BH}Jio+Entertainment", ETV HD
+http://127.0.0.1:3500/getm3u8/1973/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="{BH}Jio+Entertainment", Zee Bangla HD
+http://127.0.0.1:3500/getm3u8/1977/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest2_HD.png" group-title="{BH}Jio+Entertainment", PlusTest2 HD
+http://127.0.0.1:3500/getm3u8/2001/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="{BH}Jio+Entertainment", Ekamra Nilach akra
+http://127.0.0.1:3500/getm3u8/2010/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png" group-title="{BH}Jio+Entertainment", And TV
+http://127.0.0.1:3500/getm3u8/2024/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png" group-title="{BH}Jio+Entertainment", Bollywood Hungama
+http://127.0.0.1:3500/getm3u8/2040/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Comedistaan.png" group-title="{BH}Jio+Entertainment", The Q Comedistaan
+http://127.0.0.1:3500/getm3u8/2066/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Marathi.png" group-title="{BH}Jio+Entertainment", The Q Marathi
+http://127.0.0.1:3500/getm3u8/2071/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png" group-title="{BH}Jio+Entertainment", Gangaur
+http://127.0.0.1:3500/getm3u8/2077/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="{BH}Jio+Entertainment", Shemaroo Umang
+http://127.0.0.1:3500/getm3u8/2078/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Prime_HD.png" group-title="{BH}Jio+Entertainment", Jio Prime HD
+http://127.0.0.1:3500/getm3u8/2149/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Atrangii_TV.png" group-title="{BH}Jio+Entertainment", Atrangii TV
+http://127.0.0.1:3500/getm3u8/2191/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="{BH}Jio+Entertainment", Jatra Ekamra
+http://127.0.0.1:3500/getm3u8/2227/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" group-title="{BH}Jio+Entertainment", Nakshatra Digital TV
+http://127.0.0.1:3500/getm3u8/2253/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" group-title="{BH}Jio+Entertainment", Animax
+http://127.0.0.1:3500/getm3u8/2258/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Scoowhoop.png" group-title="{BH}Jio+Entertainment", ScoopWhoop
+http://127.0.0.1:3500/getm3u8/2324/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Friends_TV.png" group-title="{BH}Jio+Entertainment", Friends TV
+http://127.0.0.1:3500/getm3u8/2354/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="{BH}Jio+Entertainment", Sun Marathi
+http://127.0.0.1:3500/getm3u8/2424/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Spondon.png" group-title="{BH}Jio+Entertainment", Spondon
+http://127.0.0.1:3500/getm3u8/2435/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="{BH}Jio+Movies", Sony Max HD
+http://127.0.0.1:3500/getm3u8/476/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="{BH}Jio+Movies", Zee Cinema HD
+http://127.0.0.1:3500/getm3u8/165/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="{BH}Jio+Movies", Colors Cineplex
+http://127.0.0.1:3500/getm3u8/482/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="{BH}Jio+Movies", Sony Pix HD
+http://127.0.0.1:3500/getm3u8/762/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="{BH}Jio+Movies", Sony Max SD
+http://127.0.0.1:3500/getm3u8/289/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="{BH}Jio+Movies", Sony MAX2
+http://127.0.0.1:3500/getm3u8/483/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="{BH}Jio+Movies", And Pictures HD
+http://127.0.0.1:3500/getm3u8/185/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="{BH}Jio+Movies", Zee Cinema
+http://127.0.0.1:3500/getm3u8/484/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="{BH}Jio+Movies", B4U Movies
+http://127.0.0.1:3500/getm3u8/182/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" group-title="{BH}Jio+Movies", Jio Cinema
+http://127.0.0.1:3500/getm3u8/1074/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="{BH}Jio+Movies", Zee Bollywood
+http://127.0.0.1:3500/getm3u8/487/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="{BH}Jio+Movies", Bhojpuri Cinema
+http://127.0.0.1:3500/getm3u8/486/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="{BH}Jio+Movies", KTV HD
+http://127.0.0.1:3500/getm3u8/894/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="{BH}Jio+Movies", Zee Action
+http://127.0.0.1:3500/getm3u8/488/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png" group-title="{BH}Jio+Movies", Udaya Movies
+http://127.0.0.1:3500/getm3u8/678/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="{BH}Jio+Movies", Zee Cinemalu
+http://127.0.0.1:3500/getm3u8/413/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" group-title="{BH}Jio+Movies", Gemini Movies HD
+http://127.0.0.1:3500/getm3u8/899/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="{BH}Jio+Movies", Zee Anmol Cinema
+http://127.0.0.1:3500/getm3u8/415/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="{BH}Jio+Movies", Zee Talkies
+http://127.0.0.1:3500/getm3u8/153/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="{BH}Jio+Movies", J Movies
+http://127.0.0.1:3500/getm3u8/417/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="{BH}Jio+Movies", Zee Bangla Cinema
+http://127.0.0.1:3500/getm3u8/685/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="{BH}Jio+Movies", ETV Cinema
+http://127.0.0.1:3500/getm3u8/252/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png" group-title="{BH}Jio+Movies", Gemini Life
+http://127.0.0.1:3500/getm3u8/684/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="{BH}Jio+Movies", Sun Life
+http://127.0.0.1:3500/getm3u8/682/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="{BH}Jio+Movies", Fakt Marathi
+http://127.0.0.1:3500/getm3u8/738/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="{BH}Jio+Movies", Pitaara
+http://127.0.0.1:3500/getm3u8/946/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="{BH}Jio+Movies", Maha Movies
+http://127.0.0.1:3500/getm3u8/809/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="{BH}Jio+Movies", Raj Digital Plus
+http://127.0.0.1:3500/getm3u8/683/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="{BH}Jio+Movies", PTC Punjabi Gold
+http://127.0.0.1:3500/getm3u8/1190/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="{BH}Jio+Movies", Oscar Movies
+http://127.0.0.1:3500/getm3u8/883/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png" group-title="{BH}Jio+Movies", Indradhanu
+http://127.0.0.1:3500/getm3u8/908/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="{BH}Jio+Movies", Amaar Cinema
+http://127.0.0.1:3500/getm3u8/1101/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="{BH}Jio+Movies", Colors Gujarati Cinema
+http://127.0.0.1:3500/getm3u8/1324/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="{BH}Jio+Movies", Bflix Movies
+http://127.0.0.1:3500/getm3u8/1266/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="{BH}Jio+Movies", ABZY Dhakad
+http://127.0.0.1:3500/getm3u8/1268/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="{BH}Jio+Movies", ABZY Cool
+http://127.0.0.1:3500/getm3u8/1269/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="{BH}Jio+Movies", ABZY Movies
+http://127.0.0.1:3500/getm3u8/1270/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="{BH}Jio+Movies", Manoranjan TV
+http://127.0.0.1:3500/getm3u8/1280/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="{BH}Jio+Movies", Manoranjan Movies
+http://127.0.0.1:3500/getm3u8/1281/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="{BH}Jio+Movies", Khushboo TV
+http://127.0.0.1:3500/getm3u8/1282/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="{BH}Jio+Movies", B4U Kadak
+http://127.0.0.1:3500/getm3u8/1295/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="{BH}Jio+Movies", B4U Bhojpuri
+http://127.0.0.1:3500/getm3u8/1296/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="{BH}Jio+Movies", Zee Talkies HD
+http://127.0.0.1:3500/getm3u8/1358/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="{BH}Jio+Movies", Colors Cineplex Superhit
+http://127.0.0.1:3500/getm3u8/1450/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="{BH}Jio+Movies", Shemaroo MarathiBana
+http://127.0.0.1:3500/getm3u8/1452/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="{BH}Jio+Movies", Colors Cineplex HD
+http://127.0.0.1:3500/getm3u8/1477/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="{BH}Jio+Movies", Sony Pix SD
+http://127.0.0.1:3500/getm3u8/1530/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="{BH}Jio+Movies", Colors Kannada Cinema
+http://127.0.0.1:3500/getm3u8/1632/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="{BH}Jio+Movies", Colors Bangla Cinema
+http://127.0.0.1:3500/getm3u8/1657/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="{BH}Jio+Movies", Surya Movies
+http://127.0.0.1:3500/getm3u8/1754/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="{BH}Jio+Movies", Colors Cineplex Bollywood
+http://127.0.0.1:3500/getm3u8/1763/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="{BH}Jio+Movies", And Pictures
+http://127.0.0.1:3500/getm3u8/1839/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sidharth_Gold.png" group-title="{BH}Jio+Movies", Sidharth Gold
+http://127.0.0.1:3500/getm3u8/1957/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="{BH}Jio+Movies", Ekamra Cinema
+http://127.0.0.1:3500/getm3u8/2016/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" group-title="{BH}Jio+Movies", Aaryaa Cinema
+http://127.0.0.1:3500/getm3u8/2189/master.m3u8
+#EXTINF: 1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="{BH}Jio+Movies", Zee Thirai
+http://127.0.0.1:3500/getm3u8/2256/master.m3u8
